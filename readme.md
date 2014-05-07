@@ -1,4 +1,4 @@
-Content
+Content!
 =======
 
 This content manager allow your non technical team to update static document and release them without to restart your server.
